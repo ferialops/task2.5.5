@@ -17,7 +17,6 @@ import java.io.UnsupportedEncodingException;
 import java.util.Arrays;
 
 import static ru.vsu.cs.kunakhova_a_y.BinaryTreeAlgorithms.findMinValue;
-import static ru.vsu.cs.kunakhova_a_y.bst.BSTreeAlgorithms.*;
 
 public class TreeDemoFrame extends JFrame {
     private JPanel panelMain;
